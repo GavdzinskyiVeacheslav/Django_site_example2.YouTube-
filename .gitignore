@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+coolsite/mynotes
+.idea/
+../.idea/
 .Python
 build/
 develop-eggs/
@@ -58,7 +61,6 @@ cover/
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
@@ -137,6 +139,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/Django_site_example2.YouTube-.iml
 
 # pytype static type analyzer
 .pytype/
@@ -153,3 +156,6 @@ cython_debug/
 © 2021 GitHub, Inc.
 Terms
 Privacy
+
+
+
